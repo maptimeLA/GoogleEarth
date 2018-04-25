@@ -15,3 +15,6 @@
 4. Creating a Narrated Tour
 5. Importing Geographic Information Systetms (GIS) data
 
+## Georeferencing
+* [Mapwarper](http://mapwarper.net/)
+* [Georeferencer](https://www.georeferencer.com/)
